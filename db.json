@@ -2,13 +2,53 @@
 "produits": [
   {
   "id": 1,
-  "type": "test type",
-  "famille": "test famille",
-  "variete": "test variete",
-  "origine": "test origine",
-  "unite": "test unite",
-  "quantite": "test quantite",
-  "prixUnitaire": "test px unit"
+  "type": "Légumes",
+  "famille": "Tomate",
+  "variete": "Tomate cerise",
+  "origine": "Espagne",
+  "unite": "Kg",
+  "quantite": "15",
+  "prixUnitaire": "5"
+  },
+  {
+  "id": 2,
+  "type": "Légumes",
+  "famille": "Tomate",
+  "variete": "Coeur de boeuf",
+  "origine": "France",
+  "unite": "Kg",
+  "quantite": "15",
+  "prixUnitaire": "6"
+  },
+  {
+  "id": 3,
+  "type": "Fruits",
+  "famille": "Agrumes",
+  "variete": "Orange",
+  "origine": "France",
+  "unite": "Kg",
+  "quantite": "15",
+  "prixUnitaire": "3"
+  },
+  {
+  "id": 4,
+  "type": "Fruits",
+  "famille": "Agrumes",
+  "variete": "Clémentine",
+  "origine": "Maroc",
+  "unite": "Kg",
+  "quantite": "15",
+  "prixUnitaire": "5"
+  },
+  {
+  "id": 5,
+  "type": "Fruits",
+  "famille": "Exotiques",
+  "variete": "Pamplemousse",
+  "origine": "Malaisie",
+  "unite": "Kg",
+  "quantite": "15",
+  "prixUnitaire": "9"
   }
 ]
 }
