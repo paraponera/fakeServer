@@ -1,0 +1,12 @@
+"produits": [
+  {
+  "id": 1,
+  "type": "test type",
+  "famille": "test famille",
+  "variete": "test variete",
+  "origine": "test origine",
+  "unite": "test unite",
+  "quantite": "test quantite",
+  "prixUnitaire: "test px unit"
+  }
+]
