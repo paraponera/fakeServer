@@ -33,38 +33,56 @@
   "drive": 1
   }
 ],
-  "test": [
+  "produits": [
   {
   "id": 1,
-  "type": 1,
-  "nom": "Zones de livraisons",
-  "zones": ["Paris 1", "Paris 2"],
-  "adresse": "",
-  "drive": 1
+  "type": "Légumes",
+  "famille": "Tomate",
+  "variete": "Tomate cerise",
+  "origine": "Espagne",
+  "unite": "Kg",
+  "quantite": "15",
+  "prixUnitaire": "5"
   },
   {
   "id": 2,
-  "type": 1,
-  "nom": "Zones de livraisons 2",
-  "zones": ["Marseille 1", "Marseille 2"],
-  "adresse": "",
-  "drive": 1
+  "type": "Légumes",
+  "famille": "Tomate",
+  "variete": "Coeur de boeuf",
+  "origine": "France",
+  "unite": "Kg",
+  "quantite": "15",
+  "prixUnitaire": "6"
   },
   {
   "id": 3,
-  "type": 2,
-  "nom": "Point de retrait 1",
-  "zones": [],
-  "adresse": "22 xxx zzz 75xxx",
-  "drive": 1
+  "type": "Fruits",
+  "famille": "Agrumes",
+  "variete": "Orange",
+  "origine": "France",
+  "unite": "Kg",
+  "quantite": "15",
+  "prixUnitaire": "3"
   },
   {
   "id": 4,
-  "type": 2,
-  "nom": "Point de retrait 2",
-  "zones": [],
-  "adresse": "33 avenue sss fff",
-  "drive": 1
+  "type": "Fruits",
+  "famille": "Agrumes",
+  "variete": "Clémentine",
+  "origine": "Maroc",
+  "unite": "Kg",
+  "quantite": "15",
+  "prixUnitaire": "5"
+  },
+  {
+  "id": 5,
+  "type": "Fruits",
+  "famille": "Exotiques",
+  "variete": "Pamplemousse",
+  "origine": "Malaisie",
+  "unite": "Kg",
+  "quantite": "15",
+  "prixUnitaire": "9"
   }
 ]
 }
