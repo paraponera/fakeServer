@@ -92,7 +92,7 @@
   "jours": ["Mardi", "Vendredi"],
   "heureDeb": 10,
   "heureFin": 18,
-  "creneauLivraison": 15
+  "creneauLivraison": 15,
   "personneCreneau": 2
   },
   {
@@ -101,7 +101,7 @@
   "jours": ["Lundi" ,"Mercredi", "Vendredi"],
   "heureDeb": 10,
   "heureFin": 20,
-  "creneauLivraison": 15
+  "creneauLivraison": 15,
   "personneCreneau": 2
   },
   {
@@ -110,7 +110,7 @@
   "jours": ["Lundi" , "Mardi", "Jeudi", "Vendredi"],
   "heureDeb": 10,
   "heureFin": 20,
-  "creneauLivraison": 15
+  "creneauLivraison": 15,
   "personneCreneau": 2
   },
   {
@@ -119,7 +119,7 @@
   "jours": ["Tous les jours"],
   "heureDeb": 10,
   "heureFin": 20,
-  "creneauLivraison": 15
+  "creneauLivraison": 15,
   "personneCreneau": 2
   }
 ]
