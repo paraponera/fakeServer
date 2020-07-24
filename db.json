@@ -84,5 +84,43 @@
   "quantite": "15",
   "prixUnitaire": "9"
   }
+],
+  "creneaux": [
+  {
+  "id": 1,
+  "nom": "Creneau 1",
+  "jours": ["Mardi", "Vendredi"],
+  "heureDeb": 10,
+  "heureFin": 18,
+  "creneauLivraison": 15
+  "personneCreneau": 2
+  },
+  {
+  "id": 2,
+  "nom": "Creneau 2",
+  "jours": ["Lundi" ,"Mercredi", "Vendredi"],
+  "heureDeb": 10,
+  "heureFin": 20,
+  "creneauLivraison": 15
+  "personneCreneau": 2
+  },
+  {
+  "id": 3,
+  "nom": "Creneau 3",
+  "jours": ["Lundi" , "Mardi", "Jeudi", "Vendredi"],
+  "heureDeb": 10,
+  "heureFin": 20,
+  "creneauLivraison": 15
+  "personneCreneau": 2
+  },
+  {
+  "id": 4,
+  "nom": "Creneau 4",
+  "jours": ["Tous les jours"],
+  "heureDeb": 10,
+  "heureFin": 20,
+  "creneauLivraison": 15
+  "personneCreneau": 2
+  }
 ]
 }
