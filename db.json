@@ -122,5 +122,50 @@
   "creneauLivraison": 15,
   "personneCreneau": 2
   }
+],
+  "ZoneDeRetrait": [
+  {
+  "id": 1,
+  "nom": "Zone 1"
+  },
+  {
+  "id": 2,
+  "nom": "Zone 2"
+  },
+  {
+  "id": 3,
+  "nom": "Zone 3"
+  }
+],
+  "Zone1": [
+  {
+  "id": 1,
+  "nbreCmdTraites": "2",
+   "nbreCmdNonTraites": "3",
+    "cmdNonTraites": [
+      "numCmd": "00604-93600-10",
+      "nomPointRetrait": "Zone 1",
+      "date":"01/08/2020",
+      "status":"En cours",
+      "avancement":"50%"
+                     ]
+  },
+    {
+  "id": 1,
+  "nbreCmdTraites": "2",
+   "nbreCmdNonTraites": "3",
+    "cmdNonTraites": [
+      {"numCmd": "00604-93600-10",
+      "nomPointRetrait": "Zone 1",
+      "date":"01/08/2020",
+      "status":"En cours",
+      "avancement":"50%" },
+      {"numCmd": "00604-56984-10",
+      "nomPointRetrait": "Zone 1",
+      "date":"01/08/2020",
+      "status":"En cours",
+      "avancement":"70%" }
+                     ]
+  },
 ]
 }
