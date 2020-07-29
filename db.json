@@ -126,21 +126,8 @@
   "ZoneDeRetrait": [
   {
   "id": 1,
-  "nom": "Zone 1"
-  },
-  {
-  "id": 2,
-  "nom": "Zone 2"
-  },
-  {
-  "id": 3,
-  "nom": "Zone 3"
-  }
-],
-  "Zone1": [
-  {
-  "id": 1,
-  "nbreCmdTraites": "3",
+  "nom": "Zone 1",
+    "nbreCmdTraites": "3",
    "nbreCmdNonTraites": "3",
     "cmdNonTraites": [
       {
@@ -188,12 +175,11 @@
         "avancement":"100%" 
       }
                      ]
-  }
-],
- "Zone2": [
+  },
   {
   "id": 2,
-  "nbreCmdTraites": "1",
+  "nom": "Zone 2",
+     "nbreCmdTraites": "1",
    "nbreCmdNonTraites": "2",
     "cmdNonTraites": [
       {
@@ -220,12 +206,11 @@
         "avancement":"100%" 
       }
                      ]
-  }
-],
- "Zone3": [
+  },
   {
   "id": 3,
-  "nbreCmdTraites": "1",
+  "nom": "Zone 3",
+    "nbreCmdTraites": "1",
    "nbreCmdNonTraites": "1",
     "cmdNonTraites": [
       {
@@ -247,4 +232,6 @@
                      ]
   }
 ]
+
+ 
 }
