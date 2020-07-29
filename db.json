@@ -140,7 +140,7 @@
   "Zone1": [
   {
   "id": 1,
-  "nbreCmdTraites": "2",
+  "nbreCmdTraites": "3",
    "nbreCmdNonTraites": "3",
     "cmdNonTraites": [
       {
@@ -156,6 +156,93 @@
         "date":"01/08/2020",
         "status":"En cours",
         "avancement":"70%" 
+      },
+      {
+        "numCmd": "00604-12579-10",
+        "nomPointRetrait": "Zone 1",
+        "date":"01/08/2020",
+        "status":"En cours",
+        "avancement":"90%" 
+      }
+                     ],
+    "cmdTraites": [
+      {
+        "numCmd": "00604-93600-10",
+        "nomPointRetrait": "Zone 1",
+        "date":"29/07/2020",
+        "status":"Cloturé",
+        "avancement":"100%"
+      },
+      {
+        "numCmd": "00604-56984-10",
+        "nomPointRetrait": "Zone 1",
+        "date":"30/07/2020",
+        "status":"Cloturé",
+        "avancement":"100%" 
+      },
+      {
+        "numCmd": "00604-12579-10",
+        "nomPointRetrait": "Zone 1",
+        "date":"30/07/2020",
+        "status":"Cloturé",
+        "avancement":"100%" 
+      }
+                     ]
+  }
+],
+ "Zone2": [
+  {
+  "id": 2,
+  "nbreCmdTraites": "1",
+   "nbreCmdNonTraites": "2",
+    "cmdNonTraites": [
+      {
+        "numCmd": "00404-34568-22",
+        "nomPointRetrait": "Zone 2",
+        "date":"01/08/2020",
+        "status":"En cours",
+        "avancement":"50%"
+      },
+      {
+        "numCmd": "00404-98647-30",
+        "nomPointRetrait": "Zone 2",
+        "date":"01/08/2020",
+        "status":"En cours",
+        "avancement":"70%" 
+      }
+                     ],
+    "cmdTraites": [
+      {
+        "numCmd": "00404-77895-15",
+        "nomPointRetrait": "Zone 2",
+        "date":"30/07/2020",
+        "status":"Cloturé",
+        "avancement":"100%" 
+      }
+                     ]
+  }
+],
+ "Zone3": [
+  {
+  "id": 3,
+  "nbreCmdTraites": "1",
+   "nbreCmdNonTraites": "1",
+    "cmdNonTraites": [
+      {
+        "numCmd": "04504-48965-12",
+        "nomPointRetrait": "Zone 3",
+        "date":"01/08/2020",
+        "status":"En cours",
+        "avancement":"50%"
+      }
+                     ],
+    "cmdTraites": [
+      {
+        "numCmd": "01404-74665-13",
+        "nomPointRetrait": "Zone 3",
+        "date":"30/07/2020",
+        "status":"Cloturé",
+        "avancement":"100%" 
       }
                      ]
   }
