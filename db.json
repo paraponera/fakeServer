@@ -143,29 +143,21 @@
   "nbreCmdTraites": "2",
    "nbreCmdNonTraites": "3",
     "cmdNonTraites": [
-      "numCmd": "00604-93600-10",
-      "nomPointRetrait": "Zone 1",
-      "date":"01/08/2020",
-      "status":"En cours",
-      "avancement":"50%"
+      {
+        "numCmd": "00604-93600-10",
+        "nomPointRetrait": "Zone 1",
+        "date":"01/08/2020",
+        "status":"En cours",
+        "avancement":"50%"
+      },
+      {
+        "numCmd": "00604-56984-10",
+        "nomPointRetrait": "Zone 1",
+        "date":"01/08/2020",
+        "status":"En cours",
+        "avancement":"70%" 
+      }
                      ]
-  },
-    {
-  "id": 1,
-  "nbreCmdTraites": "2",
-   "nbreCmdNonTraites": "3",
-    "cmdNonTraites": [
-      {"numCmd": "00604-93600-10",
-      "nomPointRetrait": "Zone 1",
-      "date":"01/08/2020",
-      "status":"En cours",
-      "avancement":"50%" },
-      {"numCmd": "00604-56984-10",
-      "nomPointRetrait": "Zone 1",
-      "date":"01/08/2020",
-      "status":"En cours",
-      "avancement":"70%" }
-                     ]
-  },
+  }
 ]
 }
