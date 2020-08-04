@@ -89,7 +89,7 @@
   {
   "id": 1,
   "nom": "Creneau 1",
-  "jours": ["Mardi", "Vendredi"],
+  "jours": ["Ma", "Ve"],
   "heureDeb": 10,
   "heureFin": 18,
   "creneauLivraison": 15,
@@ -98,29 +98,32 @@
   {
   "id": 2,
   "nom": "Creneau 2",
-  "jours": ["Lundi" ,"Mercredi", "Vendredi"],
+  "jours": ["Lu" ,"Me", "Ve"],
   "heureDeb": 10,
   "heureFin": 20,
   "creneauLivraison": 15,
-  "personneCreneau": 2
+  "personneCreneau": 2,
+  "zones" : ["Zone 1", "Zone 2"]
   },
   {
   "id": 3,
   "nom": "Creneau 3",
-  "jours": ["Lundi" , "Mardi", "Jeudi", "Vendredi"],
+  "jours": ["Lu" , "Ma", "Je", "Ve"],
   "heureDeb": 10,
   "heureFin": 20,
   "creneauLivraison": 15,
-  "personneCreneau": 2
+  "personneCreneau": 2,
+  "zones" : ["Zone 2", "Zone 3"]
   },
   {
   "id": 4,
   "nom": "Creneau 4",
-  "jours": ["Tous les jours"],
+  "jours": ["Tous"],
   "heureDeb": 10,
   "heureFin": 20,
   "creneauLivraison": 15,
-  "personneCreneau": 2
+  "personneCreneau": 2,
+  "zones" : ["Zone 1", "Zone 4"]
   }
 ],
   "ZoneDeRetrait": [
