@@ -93,7 +93,8 @@
   "heureDeb": 10,
   "heureFin": 18,
   "creneauLivraison": 15,
-  "personneCreneau": 2
+  "personneCreneau": 2,
+   "zones" : ["Zone 4", "Zone 5"]
   },
   {
   "id": 2,
